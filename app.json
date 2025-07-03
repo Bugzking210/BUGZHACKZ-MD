@@ -14,7 +14,7 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "https://files.catbox.moe/z7303n.jpg",
       "required": true,
       "value": "your image url"
     }, 
